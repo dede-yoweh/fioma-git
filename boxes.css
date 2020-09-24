@@ -2,4 +2,13 @@ div.box {
 	width: 50vw;
 	height: 400px;
 	background-color: grey;
+	border: 4px dotted red;
+	border-radius: 40px;
+}
+
+.bg-image {
+	background-image: url("birthday.jpg");
+	/*background-size: cover;*/
+	background-repeat: repeat;
+	background-attachment: fixed;
 }
